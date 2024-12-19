@@ -35,16 +35,16 @@
 
 ### **GitHub Stats 📊**
 
-![Yvarun5292's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yvarun5292&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Shadowwphoenix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowwphoenix&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ### **Most Used Languages 💬**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yvarun5292&layout=compact&langs_count=8&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowwphoenix&layout=compact&langs_count=8&theme=radical)
 
 ### **GitHub Trophies 🏆**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yvarun5292&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shadowwphoenix&theme=radical)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=yvarun5292&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shadowwphoenix&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
