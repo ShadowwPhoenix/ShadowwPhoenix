@@ -31,6 +31,7 @@
 ![MLP](https://img.shields.io/badge/-MLP-000000?style=flat-square&logo=python&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-000000?style=flat-square&logo=python&logoColor=white)
 
+
 ---
 
 ### **GitHub Stats 📊**
