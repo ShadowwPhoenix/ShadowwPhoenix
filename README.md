@@ -28,7 +28,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MLP](https://img.shields.io/badge/-MLP-000000?style=flat-square&logo=python&logoColor=white)
+![MLP](https://img.shields.io/badge/-NLP-000000?style=flat-square&logo=python&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-000000?style=flat-square&logo=python&logoColor=white)
 
 
