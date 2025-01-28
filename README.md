@@ -47,5 +47,3 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shadowwphoenix&theme=radical)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=shadowwphoenix&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
